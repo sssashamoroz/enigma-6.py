@@ -7,7 +7,8 @@ Since there are only 6 letters, I decided to encode the word "FADE" and as the c
 Image of the step-by-step encoding attached with the visual interface.
 
 
-![alt text](https://imgur.com/DHyWfS8)
+<img width="400" alt="interface" src="https://user-images.githubusercontent.com/43972334/126385383-cc49fb52-e7c1-491c-964e-a7a5c994cc3a.png">
+
 
 
 
